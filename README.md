@@ -1,4 +1,4 @@
 # hello-world
-for practicing
+This file is for practicing.
 I am a Chinese, I like to program.
-python and Matlab are my favorites. 
+Python and Matlab are my favorites. 
